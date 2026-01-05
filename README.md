@@ -1,5 +1,5 @@
 # TP – Git Avancé
-Ce tp est un fok
+Ce tp est un fork
 ## Lancement de l’application
 
 ### Prérequis
